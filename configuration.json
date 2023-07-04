@@ -1,0 +1,12 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "port": ":1234",
+        "subscribe_subject": "addNewOrder"
+    },
+    "database": {
+        "database": "wb",
+        "user": "postgres",
+        "password": "root"
+    }
+}
